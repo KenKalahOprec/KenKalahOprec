@@ -292,10 +292,10 @@ I don't just write code; I inject pure momentum into every line, turning messy r
   <a href="https://github.com/KenKalahOprec" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-KenKalahOprec-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/jadeaurestha" target="_blank">
+  <a href="www.linkedin.com/in/jade-aurestha-478a4a320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jade Aurestha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/jadeaurestha" target="_blank">
+  <a href="https://www.instagram.com/t1nyjadeq" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-t1nyjadeq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:jadeaurestha@gmail.com">
