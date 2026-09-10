@@ -6,7 +6,7 @@
 
 <!-- Banner Persona 4 Golden -->
 <a href="https://github.com/KenKalahOprec">
-  <img src="assets/images/banner_p4.svg" alt="Persona 4 Golden Banner" style="width:100%; height:auto"/>
+  <img src="assets/images/banner_p4.png" alt="Persona 4 Golden Banner" style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
