@@ -114,7 +114,9 @@ Beyond coding solo, I serve as **Infrastructure Staff at Technology Artisan (Tec
   <br/><br/>
 </div>
 
-[![Investigation Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KenKalahOprec&custom_title=Investigation%20Matrix%20Contributions&hide_border=false&theme=high-contrast&border_color=FFD500&bg_color=transparent&radius=16&area_color=FFD500&area=true&point=ffffff&line=FFD500&days=10&text_color=ffffff&title_color=FFD500&include_all_commits=true&count_private=true)](https://github.com/KenKalahOprec)
+<div align="center">
+  <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=KenKalahOprec&theme=dark&bg_color=141418&title_color=FFD500&text_color=FFFFFF&hide_border=false&border_color=FFD500&icon_color=FFD500&show_icons=true" width="480px" alt="Investigation Stats Card" />
+</div>
 
 <br/>
 
@@ -135,23 +137,23 @@ Beyond coding solo, I serve as **Infrastructure Staff at Technology Artisan (Tec
     <td valign="top" width="45%">
       <img src="./assets/images/stack_p4.svg" width="85%">
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs" /><br>
-      <img src="https://skillicons.dev/icons?i=tailwind,nodejs,postgres,mysql,vite,git" /><br>
-      <img src="https://skillicons.dev/icons?i=opencv,pytorch,docker,postman,figma,vscode" /><br>
-      <img src="https://skillicons.dev/icons?i=bootstrap,electron,express,linux,c,html,css" /><br>
+      <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs" /><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind,nodejs,postgres,mysql,vite,git" /><br/>
+      <img src="https://skillicons.dev/icons?i=opencv,pytorch,docker,postman,figma,vscode" /><br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,electron,express,linux,c,html,css" /><br/>
     </td>
-    <!-- Real Pushed Repos & Streak Right -->
+    <!-- Real Pushed Repos & Persona 4 Action GIF Right -->
     <td valign="top" width="55%">
       <a href="https://github.com/KenKalahOprec/Spectravision-DIP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenKalahOprec&repo=Spectravision-DIP&theme=dark&bg_color=141418&title_color=FFD500&text_color=FFFFFF&hide_border=false&border_color=FFD500&icon_color=FFD500&cache_seconds=86400" width="100%" />
+        <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=KenKalahOprec&repo=Spectravision-DIP&theme=dark&bg_color=141418&title_color=FFD500&text_color=FFFFFF&hide_border=false&border_color=FFD500&icon_color=FFD500&cache_seconds=86400" width="100%" alt="Spectravision-DIP" />
       </a>
       <br/><br/>
       <a href="https://github.com/KenKalahOprec/Anime-Explorer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenKalahOprec&repo=Anime-Explorer&theme=dark&bg_color=141418&title_color=FFD500&text_color=FFFFFF&hide_border=false&border_color=FFD500&icon_color=FFD500&cache_seconds=86400" width="100%" />
+        <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=KenKalahOprec&repo=Anime-Explorer&theme=dark&bg_color=141418&title_color=FFD500&text_color=FFFFFF&hide_border=false&border_color=FFD500&icon_color=FFD500&cache_seconds=86400" width="100%" alt="Anime-Explorer" />
       </a>
       <br/><br/>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=KenKalahOprec&theme=dark&background=141418&border=FFD500&ring=FFD500&fire=FFD500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD500&sideLabels=FFD500&dates=FFFFFF" width="100%" />
+      <a href="https://github.com/KenKalahOprec">
+        <img src="./assets/images/p4_action.gif" width="100%" style="border-radius: 8px; border: 2px solid #FFD500;" alt="Persona 4 Hero Action" />
       </a>
     </td>
   </tr>
