@@ -63,8 +63,8 @@ curl -sL https://raw.githubusercontent.com/KenKalahOprec/KenKalahOprec/main/tele
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <a href="./assets/photo.jpg" title="⚡ Tarik / drag fotoku untuk animasi!">
-        <img src="./assets/profile-animated.svg" width="100%" alt="Putu Pasek Jade Aurestha" draggable="true" />
+      <a href="./assets/photo.jpg" title="Putu Pasek Jade Aurestha">
+        <img src="./assets/profile-animated.gif" width="100%" style="border-radius: 12px; object-fit: cover;" alt="Putu Pasek Jade Aurestha" />
       </a>
       <br/><br/>
       <b>Putu Pasek Jade Aurestha</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" alt="wave" /><br/>
