@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="320" viewBox="0 0 820 320">
+  <defs>
+    <linearGradient id="p4Grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD500" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FFD500" stop-opacity="0.0"/>
+    </linearGradient>
+    <linearGradient id="yellowBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFD500"/>
+      <stop offset="100%" stop-color="#FFAE00"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 18px; font-weight: 800; fill: #FFFFFF; letter-spacing: 1px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 600; fill: #FFD500; }
+    .stat-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #8b949e; text-transform: uppercase; }
+    .stat-val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 16px; font-weight: 700; fill: #FFD500; }
+    .axis-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #6e7681; }
+    .grid { stroke: #21262d; stroke-width: 1; stroke-dasharray: 4,4; }
+  </style>
+  <!-- Background -->
+  <rect width="820" height="320" rx="16" fill="#141418" stroke="#FFD500" stroke-width="2"/>
+  <!-- Corner P4 Accent -->
+  <path d="M 0 16 Q 0 0 16 0 L 80 0 L 0 80 Z" fill="#FFD500" opacity="0.15"/>
+  <!-- Header -->
+  <rect x="25" y="25" width="8" height="24" rx="2" fill="url(#yellowBar)"/>
+  <text x="42" y="42" class="title">ACTIVITY HISTOGRAM</text>
+  <text x="245" y="42" class="subtitle">// MIDNIGHT CHANNEL LOGS</text>
+  <g transform="translate(580, 24)">
+    <text x="0" y="10" class="stat-label">30-DAY COMMITS</text>
+    <text x="0" y="25" class="stat-val">21</text>
+    <text x="120" y="10" class="stat-label">TOTAL (1 YEAR)</text>
+    <text x="120" y="25" class="stat-val">42</text>
+  </g>
+  <!-- Grid & Y Axis -->
+  <line x1="60" y1="270.0" x2="780" y2="270.0" class="grid"/>
+  <text x="50" y="274.0" text-anchor="end" class="axis-text">0</text>
+  <line x1="60" y1="222.5" x2="780" y2="222.5" class="grid"/>
+  <text x="50" y="226.5" text-anchor="end" class="axis-text">3</text>
+  <line x1="60" y1="175.0" x2="780" y2="175.0" class="grid"/>
+  <text x="50" y="179.0" text-anchor="end" class="axis-text">6</text>
+  <line x1="60" y1="127.5" x2="780" y2="127.5" class="grid"/>
+  <text x="50" y="131.5" text-anchor="end" class="axis-text">9</text>
+  <line x1="60" y1="80.0" x2="780" y2="80.0" class="grid"/>
+  <text x="50" y="84.0" text-anchor="end" class="axis-text">12</text>
+  <!-- Area & Line Graph -->
+  <path d="M 60.0,270.0 C 64.0,270.0 76.0,270.0 84.0,270.0 C 92.0,270.0 100.0,270.0 108.0,270.0 C 116.0,270.0 124.0,270.0 132.0,270.0 C 140.0,270.0 148.0,270.0 156.0,270.0 C 164.0,270.0 172.0,270.0 180.0,270.0 C 188.0,270.0 196.0,270.0 204.0,270.0 C 212.0,270.0 220.0,270.0 228.0,270.0 C 236.0,270.0 244.0,270.0 252.0,270.0 C 260.0,270.0 268.0,270.0 276.0,270.0 C 284.0,270.0 292.0,270.0 300.0,270.0 C 308.0,270.0 316.0,270.0 324.0,270.0 C 332.0,270.0 340.0,270.0 348.0,270.0 C 356.0,270.0 364.0,270.0 372.0,270.0 C 380.0,270.0 388.0,270.0 396.0,270.0 C 404.0,270.0 412.0,270.0 420.0,270.0 C 428.0,270.0 436.0,270.0 444.0,270.0 C 452.0,270.0 460.0,270.0 468.0,270.0 C 476.0,270.0 484.0,270.0 492.0,270.0 C 500.0,270.0 508.0,270.0 516.0,270.0 C 524.0,270.0 532.0,270.0 540.0,270.0 C 548.0,270.0 556.0,270.0 564.0,270.0 C 572.0,270.0 580.0,270.0 588.0,270.0 C 596.0,270.0 604.0,270.0 612.0,270.0 C 620.0,270.0 628.0,270.0 636.0,270.0 C 644.0,270.0 652.0,270.0 660.0,270.0 C 668.0,270.0 676.0,270.0 684.0,270.0 C 692.0,270.0 700.0,280.6 708.0,270.0 C 716.0,259.4 724.0,238.3 732.0,206.7 C 740.0,175.0 748.0,82.6 756.0,80.0 C 764.0,77.4 776.0,172.4 780.0,190.8 L 780.0,270.0 L 60.0,270.0 Z" fill="url(#p4Grad)"/>
+  <path d="M 60.0,270.0 C 64.0,270.0 76.0,270.0 84.0,270.0 C 92.0,270.0 100.0,270.0 108.0,270.0 C 116.0,270.0 124.0,270.0 132.0,270.0 C 140.0,270.0 148.0,270.0 156.0,270.0 C 164.0,270.0 172.0,270.0 180.0,270.0 C 188.0,270.0 196.0,270.0 204.0,270.0 C 212.0,270.0 220.0,270.0 228.0,270.0 C 236.0,270.0 244.0,270.0 252.0,270.0 C 260.0,270.0 268.0,270.0 276.0,270.0 C 284.0,270.0 292.0,270.0 300.0,270.0 C 308.0,270.0 316.0,270.0 324.0,270.0 C 332.0,270.0 340.0,270.0 348.0,270.0 C 356.0,270.0 364.0,270.0 372.0,270.0 C 380.0,270.0 388.0,270.0 396.0,270.0 C 404.0,270.0 412.0,270.0 420.0,270.0 C 428.0,270.0 436.0,270.0 444.0,270.0 C 452.0,270.0 460.0,270.0 468.0,270.0 C 476.0,270.0 484.0,270.0 492.0,270.0 C 500.0,270.0 508.0,270.0 516.0,270.0 C 524.0,270.0 532.0,270.0 540.0,270.0 C 548.0,270.0 556.0,270.0 564.0,270.0 C 572.0,270.0 580.0,270.0 588.0,270.0 C 596.0,270.0 604.0,270.0 612.0,270.0 C 620.0,270.0 628.0,270.0 636.0,270.0 C 644.0,270.0 652.0,270.0 660.0,270.0 C 668.0,270.0 676.0,270.0 684.0,270.0 C 692.0,270.0 700.0,280.6 708.0,270.0 C 716.0,259.4 724.0,238.3 732.0,206.7 C 740.0,175.0 748.0,82.6 756.0,80.0 C 764.0,77.4 776.0,172.4 780.0,190.8" fill="none" stroke="#FFD500" stroke-width="3" filter="url(#glow)"/>
+  <circle cx="732.0" cy="206.7" r="5" fill="#141418" stroke="#FFD500" stroke-width="2.5"/>
+  <circle cx="732.0" cy="206.7" r="2" fill="#FFFFFF"/>
+  <text x="732.0" y="197.7" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFD500" font-family="sans-serif">4</text>
+  <circle cx="756.0" cy="80.0" r="5" fill="#141418" stroke="#FFD500" stroke-width="2.5"/>
+  <circle cx="756.0" cy="80.0" r="2" fill="#FFFFFF"/>
+  <text x="756.0" y="71.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFD500" font-family="sans-serif">12</text>
+  <circle cx="780.0" cy="190.8" r="5" fill="#141418" stroke="#FFD500" stroke-width="2.5"/>
+  <circle cx="780.0" cy="190.8" r="2" fill="#FFFFFF"/>
+  <text x="780.0" y="181.8" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFD500" font-family="sans-serif">5</text>
+  <!-- X Axis Labels -->
+  <text x="60.0" y="290" text-anchor="middle" class="axis-text">11 Aug</text>
+  <text x="204.0" y="290" text-anchor="middle" class="axis-text">17 Aug</text>
+  <text x="348.0" y="290" text-anchor="middle" class="axis-text">23 Aug</text>
+  <text x="492.0" y="290" text-anchor="middle" class="axis-text">29 Aug</text>
+  <text x="636.0" y="290" text-anchor="middle" class="axis-text">04 Sep</text>
+  <text x="780.0" y="290" text-anchor="middle" class="axis-text">10 Sep</text>
+</svg>

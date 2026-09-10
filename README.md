@@ -60,35 +60,28 @@ Beyond coding solo, I serve as **Infrastructure Staff at Technology Artisan (Tec
 
   <!-- GitHub -->
   <a href="https://github.com/KenKalahOprec" target="_blank">
-    <img width="115px" 
+    <img height="28" 
           src="https://img.shields.io/badge/GitHub-FFD500?style=for-the-badge&logo=github&logoColor=000000&labelColor=121214" 
           alt="GitHub"
           title="My GitHub"/>
-  </a>
-  <!-- Linkedin -->
+  </a> 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jade-aurestha-478a4a320/" target="_blank">
-    <img width="125px" 
-          src="https://img.shields.io/badge/Linkedin-FFD500?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=121214" 
-          alt="Linkedin"
-          title="My Linkedin"/>
-  </a>
+    <img height="28" 
+          src="https://img.shields.io/badge/LinkedIn-FFD500?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=121214" 
+          alt="LinkedIn"
+          title="My LinkedIn"/>
+  </a> 
   <!-- Instagram -->
   <a href="https://www.instagram.com/t1nyjadeq/" target="_blank">
-    <img width="135px" 
+    <img height="28" 
           src="https://img.shields.io/badge/Instagram-FFD500?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=121214" 
           alt="Instagram"
           title="My Instagram"/>
-  </a>
-  <!-- Pinterest -->
-  <a href="https://id.pinterest.com/pin/626774473121460155/" target="_blank">
-    <img width="130px" 
-          src="https://img.shields.io/badge/Pinterest-FFD500?style=for-the-badge&logo=Pinterest&logoColor=000000&labelColor=121214" 
-          alt="Pinterest"
-          title="My Pinterest"/>
-  </a>
+  </a> 
   <!-- GMail  -->
   <a href="mailto:jadeaurestha@gmail.com" target="_blank">
-    <img width="105px" 
+    <img height="28" 
           src="https://img.shields.io/badge/Gmail-FFD500?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=121214" 
           alt="E-mail"
           title="My E-mail"/>
@@ -112,10 +105,7 @@ Beyond coding solo, I serve as **Infrastructure Staff at Technology Artisan (Tec
 <div align="center">
   <img src="./assets/images/contributions_p4.svg" width="50%">
   <br/><br/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=KenKalahOprec&theme=dark&bg_color=141418&title_color=FFD500&text_color=FFFFFF&hide_border=false&border_color=FFD500&icon_color=FFD500&show_icons=true" width="480px" alt="Investigation Stats Card" />
+  <img src="./assets/images/activity_histogram.svg" width="100%" alt="Activity Histogram" />
 </div>
 
 <br/>
@@ -140,9 +130,9 @@ Beyond coding solo, I serve as **Infrastructure Staff at Technology Artisan (Tec
       <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs" /><br/>
       <img src="https://skillicons.dev/icons?i=tailwind,nodejs,postgres,mysql,vite,git" /><br/>
       <img src="https://skillicons.dev/icons?i=opencv,pytorch,docker,postman,figma,vscode" /><br/>
-      <img src="https://skillicons.dev/icons?i=bootstrap,electron,express,linux,c,html,css" /><br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,electron,express,linux,html,css" /><br/>
     </td>
-    <!-- Real Pushed Repos & Persona 4 Action GIF Right -->
+    <!-- Real Pushed Repos & Persona 4 Stats Right -->
     <td valign="top" width="55%">
       <a href="https://github.com/KenKalahOprec/Spectravision-DIP">
         <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=KenKalahOprec&repo=Spectravision-DIP&theme=dark&bg_color=141418&title_color=FFD500&text_color=FFFFFF&hide_border=false&border_color=FFD500&icon_color=FFD500&cache_seconds=86400" width="100%" alt="Spectravision-DIP" />
@@ -153,7 +143,7 @@ Beyond coding solo, I serve as **Infrastructure Staff at Technology Artisan (Tec
       </a>
       <br/><br/>
       <a href="https://github.com/KenKalahOprec">
-        <img src="./assets/images/p4_action.gif" width="100%" style="border-radius: 8px; border: 2px solid #FFD500;" alt="Persona 4 Hero Action" />
+        <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=KenKalahOprec&theme=dark&bg_color=141418&title_color=FFD500&text_color=FFFFFF&hide_border=false&border_color=FFD500&icon_color=FFD500&show_icons=true" width="100%" alt="Investigation Stats Card" />
       </a>
     </td>
   </tr>
