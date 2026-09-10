@@ -1,15 +1,12 @@
 <div align="center">
 
-```
-  ██╗ █████╗ ██████╗ ███████╗    █████╗ ██╗   ██╗██████╗ ███████╗███████╗████████╗██╗  ██╗ █████╗ 
-  ██║██╔══██╗██╔══██╗██╔════╝   ██╔══██╗██║   ██║██╔══██╗██╔════╝██╔════╝╚══██╔══╝██║  ██║██╔══██╗
-  ██║███████║██║  ██║█████╗     ███████║██║   ██║██████╔╝█████╗  ███████╗   ██║   ███████║███████║
-  ██║██╔══██║██║  ██║██╔══╝     ██╔══██║██║   ██║██╔══██╗██╔══╝  ╚════██║   ██║   ██╔══██║██╔══██║
-████║██║  ██║██████╔╝███████╗   ██║  ██║╚██████╔╝██║  ██║███████╗███████║   ██║   ██║  ██║██║  ██║
-╚═══╝╚═╝  ╚═╝╚═════╝ ╚══════╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+  <a href="https://id.pinterest.com/pin/626774473121460155/">
+    <img src="./assets/hero.gif" width="100%" alt="Jade Aurestha" />
+  </a>
 
-### ⚡ `SYSTEM STATUS: OVERCLOCKED & MAXIMUM HYPERACTIVE` ⚡
+  <br/><br/>
+
+  ### ⚡ `SYSTEM STATUS: OVERCLOCKED & MAXIMUM HYPERACTIVE` ⚡
 
 <a href="https://github.com/KenKalahOprec">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=800&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+JADE+AURESTHA+%3A%3A+SYSTEM+ONLINE+%26+COMPILING!;%F0%9F%94%A5+UDAYANA+IT+ENGINEER+%7C+FULLSTACK+%2B+AI+WIZARD;%E2%98%95+CONVERTING+COFFEE+INTO+LIGHTSPEED+COMMITS!;%F0%9F%9A%80+SHIPPING+APPS+FASTER+THAN+LIGHTNING;%F0%9F%91%BE+1+BUG+FIXED...+3+NEW+SIDE+QUESTS+UNLOCKED!" alt="Hyperactive Typing SVG" />
@@ -66,7 +63,9 @@ curl -sL https://raw.githubusercontent.com/KenKalahOprec/KenKalahOprec/main/tele
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="./assets/profile.jpg" width="100%" style="border-radius: 12px; object-fit: cover;" alt="Putu Pasek Jade Aurestha" />
+      <a href="./assets/photo.jpg" title="⚡ Tarik / drag fotoku untuk animasi!">
+        <img src="./assets/profile-animated.svg" width="100%" alt="Putu Pasek Jade Aurestha" draggable="true" />
+      </a>
       <br/><br/>
       <b>Putu Pasek Jade Aurestha</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" alt="wave" /><br/>
       <sub>🌴 Bali, Indonesia</sub><br/>
@@ -453,5 +452,8 @@ I don't just write code; I inject pure momentum into every line, turning messy r
 
   <p><b>⚡ Got an exciting project, collaboration, or idea? Reach out anytime! 🚀</b></p>
   <p><i>⚡ Built with pure passion, high voltage & Bali sunshine 🌴</i></p>
+
+  <br/>
+  <p>© 2026 <b>Jade Aurestha</b>. All rights reserved.</p>
 
 </div>
