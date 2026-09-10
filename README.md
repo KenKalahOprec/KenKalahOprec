@@ -226,51 +226,56 @@ I don't just write code; I inject pure momentum into every line, turning messy r
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏛️ Student Hub TI</h3>
-      <p align="center"><b>🔥 Mission-Critical Campus & Academic Engine</b></p>
-      <p>High-performance unified web portal built for Information Technology students to supercharge academic tracking, division task distribution, organizational voting, and milestone celebrations.</p>
+      <h3 align="center">🔬 SpectraVision DIP Laboratory</h3>
+      <p align="center"><b>⚡ Scientific Image Processing & Matrix Computing Studio</b></p>
+      <p>Interactive desktop laboratory for digital image processing, matrix convolutions, spatial filtering, bit-plane slicing, and Haralick GLCM texture feature extraction.</p>
       <ul>
-        <li>⚡ <b>Sub-100ms</b> optimized response rates with relational indexing.</li>
-        <li>🔐 Role-based access control with granular permission tiers.</li>
-        <li>📊 Live dashboard with reactive task tracking widgets.</li>
-      </ul>
-      <p><b>Tech Stack:</b> <code>Next.js / React</code> • <code>Node.js</code> • <code>PostgreSQL</code> • <code>TailwindCSS</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👁️ Computer Vision & Image Processing Lab</h3>
-      <p align="center"><b>⚡ Pixel Sorcery & Neural Feature Extraction</b></p>
-      <p>Deep dive into digital image manipulation, custom convolution kernels, spatial edge detection, object boundary segmentation, and multi-spectral filtering algorithms.</p>
-      <ul>
-        <li>🔬 Custom mathematical spatial matrices & Fourier transforms.</li>
-        <li>📈 Adaptive thresholding & histogram equalization pipelines.</li>
-        <li>📊 High-speed visual rendering with OpenCV and NumPy.</li>
+        <li>🎛️ <b>Custom spatial convolution kernels</b>, Laplacian edge detectors & Fourier transforms.</li>
+        <li>📈 <b>Bit-plane slicing</b>, histogram equalization, and adaptive binarization.</li>
+        <li>📊 <b>High-performance matrix computing</b> powered by Python, OpenCV, and NumPy.</li>
       </ul>
       <p><b>Tech Stack:</b> <code>Python</code> • <code>OpenCV</code> • <code>NumPy</code> • <code>Matplotlib</code></p>
+      <p align="right"><a href="https://github.com/KenKalahOprec/Spectravision-DIP"><b>Explore Repository ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 Anime Explorer</h3>
+      <p align="center"><b>🔥 Modern Media Discovery Engine & Watchlist Hub</b></p>
+      <p>Sleek, high-performance media explorer with failover multi-source API integration (Jikan v4 & Kitsu), dynamic discovery grid, and persistent local storage.</p>
+      <ul>
+        <li>⚡ <b>React 19 + Vite architecture</b> styled with cutting-edge Tailwind CSS v4.</li>
+        <li>🔄 <b>Dual-source API failover</b> system guaranteeing uninterrupted live data fetching.</li>
+        <li>📱 <b>Responsive glassmorphism UI</b> with instant search and local watchlist sync.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>React 19</code> • <code>Tailwind CSS v4</code> • <code>Vite</code> • <code>Jikan & Kitsu API</code></p>
+      <p align="right"><a href="https://github.com/KenKalahOprec/Anime-Explorer"><b>Explore Repository ↗</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎧 Modern Music & Media Components</h3>
-      <p align="center"><b>🎵 Pure Dopamine UI & Reactive Audio Engine</b></p>
-      <p>Sleek, hyper-responsive frontend component architecture inspired by Spotify. Engineered with glassmorphism, dynamic playback controls, and ultra-fluid playlist management.</p>
+      <h3 align="center">⚡ KenKalahOprec Command Hub</h3>
+      <p align="center"><b>🤖 Automated Developer Identity & Telemetry Runtime</b></p>
+      <p>The central configuration repository powering automated GitHub contribution grid snake animations, live developer telemetry, and interactive terminal profiles.</p>
       <ul>
-        <li>🎵 Silky-smooth 60fps micro-interactions and transitions.</li>
-        <li>⚡ Modular component architecture built for infinite scalability.</li>
-        <li>📱 Pixel-perfect reactive behavior on mobile, tablet & desktop.</li>
+        <li>🐍 <b>Automated GitHub Actions CI/CD</b> cron workflow generating matrix snake grids.</li>
+        <li>📊 <b>Interactive developer telemetry</b> and custom SVG visual components.</li>
+        <li>🧬 <b>Structured developer configuration schema</b> built with modern TypeScript semantics.</li>
       </ul>
-      <p><b>Tech Stack:</b> <code>React</code> • <code>TailwindCSS</code> • <code>Vite</code> • <code>REST API</code></p>
+      <p><b>Tech Stack:</b> <code>Markdown</code> • <code>GitHub Actions</code> • <code>CI/CD Workflows</code> • <code>SVG</code></p>
+      <p align="right"><a href="https://github.com/KenKalahOprec/KenKalahOprec"><b>Explore Repository ↗</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌦️ Weather Pulse App</h3>
-      <p align="center"><b>🌪️ Real-Time Atmospheric Intelligence Dashboard</b></p>
-      <p>Lightning-fast meteorological radar application fetching live atmospheric pressure, precipitation likelihood, wind speed matrices, and localized hyper-accurate forecasts.</p>
+      <h3 align="center">🧩 Algorithms & Data Structures Lab</h3>
+      <p align="center"><b>🏎️ Asymptotic Optimization & Computational Problem Solving</b></p>
+      <p>Comprehensive algorithmic testbed tackling complex pointer manipulation, dynamic programming, recursive trees, graph traversals, and asymptotic execution speed.</p>
       <ul>
-        <li>📍 Instant GPS geocoding and auto-location detection.</li>
-        <li>📊 Visualized dynamic temperature trends and weather graphs.</li>
-        <li>⚡ Instantaneous cached data pipeline for zero-delay UX.</li>
+        <li>⚡ <b>Sub-millisecond algorithm runtime</b> with strict space/time complexity tuning.</li>
+        <li>🧱 <b>Low-level memory management</b> and custom data structure implementations.</li>
+        <li>🎯 <b>Foundational problem sets</b> and academic computer science logic benchmarks.</li>
       </ul>
-      <p><b>Tech Stack:</b> <code>JavaScript / React</code> • <code>OpenWeather API</code> • <code>TailwindCSS</code></p>
+      <p><b>Tech Stack:</b> <code>C++</code> • <code>Algorithms</code> • <code>Data Structures</code> • <code>Computation</code></p>
+      <p align="right"><a href="https://github.com/Praktikum-Pemrograman-2026/16-source-code"><b>Explore Lab ↗</b></a></p>
     </td>
+  </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
@@ -398,9 +403,10 @@ I don't just write code; I inject pure momentum into every line, turning messy r
 
 | 🚀 Repository | 🛠️ Tech Stack | 🎯 Focus & Description | 🔗 Link |
 | :--- | :--- | :--- | :--- |
-| **`studi-kasus-Algoritma-Pemrograman`** | `C++` • `Algorithms` | Problem-solving modules, logic optimization, and data structures | [Explore Repo ↗](https://github.com/KenKalahOprec/studi-kasus-Algoritma-Pemrograman) |
-| **`Tugas-Alprog`** | `C++` • `Computation` | Algorithmic implementations & foundational computer science tasks | [Explore Repo ↗](https://github.com/KenKalahOprec/Tugas-Alprog) |
-| **`KenKalahOprec`** | `Markdown` • `Config` | The central command hub & developer identity runtime | [Explore Repo ↗](https://github.com/KenKalahOprec/KenKalahOprec) |
+| **`Spectravision-DIP`** | `Python` • `OpenCV` • `NumPy` | Scientific Desktop Studio for Image Processing, Filtering & GLCM Texture Analysis | [Explore Repo ↗](https://github.com/KenKalahOprec/Spectravision-DIP) |
+| **`Anime-Explorer`** | `React 19` • `Tailwind v4` • `Vite` | Modern Anime/Manga Explorer with failover multi-source API & local watchlist | [Explore Repo ↗](https://github.com/KenKalahOprec/Anime-Explorer) |
+| **`KenKalahOprec`** | `Markdown` • `CI/CD Workflows` | Developer identity runtime & automated contribution snake cron actions | [Explore Repo ↗](https://github.com/KenKalahOprec/KenKalahOprec) |
+| **`16-source-code`** | `C++` • `Algorithms` | Academic programming modules, memory structures & asymptotic logic optimization | [Explore Lab ↗](https://github.com/Praktikum-Pemrograman-2026/16-source-code) |
 
 </div>
 
