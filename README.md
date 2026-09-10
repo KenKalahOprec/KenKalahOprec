@@ -12,19 +12,19 @@
 <div align="center">
 
   <a href="https://api.github-star-counter.workers.dev/user/KenKalahOprec">
-    <img width="120px" 
+    <img height="28" 
         alt="Stars" 
         title="Stars Profile" 
         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FFD500&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KenKalahOprec" /> 
   </a>
   <a href="https://github.com/KenKalahOprec?tab=repositories">
-    <img width="111px" 
+    <img height="28" 
         alt="forks" 
         title="Forks Repository" 
         src="https://custom-icon-badges.demolab.com/github/forks/KenKalahOprec/KenKalahOprec?color=000000&logo=fork&style=for-the-badge&logoColor=FFD500&labelColor=FFD500" /> 
   </a>
   <a href="https://github.com/KenKalahOprec?tab=followers">
-    <img width="150px" 
+    <img height="28" 
         alt="Followers" 
         title="Github Followers" 
         src="https://custom-icon-badges.herokuapp.com/github/followers/KenKalahOprec?color=000000&labelColor=FFD500&style=for-the-badge&logo=person-add&label=Followers&logoColor=000000" />
@@ -124,13 +124,15 @@ Beyond coding solo, I serve as **Infrastructure Staff at Technology Artisan (Tec
 <table align="center" width="100%">
   <tr>
     <!-- Skills Left -->
-    <td valign="top" width="45%">
-      <img src="./assets/images/stack_p4.svg" width="85%">
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs" /><br/>
-      <img src="https://skillicons.dev/icons?i=tailwind,nodejs,postgres,mysql,vite,git" /><br/>
-      <img src="https://skillicons.dev/icons?i=opencv,pytorch,docker,postman,figma,vscode" /><br/>
-      <img src="https://skillicons.dev/icons?i=bootstrap,electron,express,linux,html,css" /><br/>
+    <td valign="top" width="45%" align="center">
+      <div align="center">
+        <img src="./assets/images/stack_p4.svg" width="85%">
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs" /><br/>
+        <img src="https://skillicons.dev/icons?i=tailwind,nodejs,postgres,mysql,vite,git" /><br/>
+        <img src="https://skillicons.dev/icons?i=opencv,pytorch,docker,postman,figma,vscode" /><br/>
+        <img src="https://skillicons.dev/icons?i=bootstrap,electron,express,linux,html,css" /><br/>
+      </div>
     </td>
     <!-- Real Pushed Repos & Persona 4 Stats Right -->
     <td valign="top" width="55%">
