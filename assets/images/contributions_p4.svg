@@ -1,0 +1,26 @@
+<svg width="600" height="90" viewBox="0 0 600 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="sh_p4" x="-5%" y="-5%" width="115%" height="115%">
+      <feDropShadow dx="4" dy="4" stdDeviation="0" flood-color="#000000" flood-opacity="0.9" />
+    </filter>
+  </defs>
+
+  <!-- Background angled yellow ribbon -->
+  <g transform="rotate(-1.5 300 45)">
+    <polygon points="10,12 590,5 575,80 0,88" fill="#000000" filter="url(#sh_p4)" />
+    <polygon points="12,10 585,7 572,75 4,82" fill="#FFD500" stroke="#000000" stroke-width="4" />
+    
+    <!-- Left black badge -->
+    <polygon points="12,10 110,9 95,78 4,82" fill="#121214" />
+    <!-- Yellow star inside black badge -->
+    <polygon points="52,32 56,44 68,44 58,52 62,64 52,56 42,64 46,52 36,44 48,44" fill="#FFD500" />
+
+    <!-- Rainbow mini lines -->
+    <line x1="120" y1="18" x2="550" y2="18" stroke="#FF3D00" stroke-width="3" />
+    <line x1="120" y1="23" x2="550" y2="23" stroke="#00E676" stroke-width="2" />
+    <line x1="120" y1="27" x2="550" y2="27" stroke="#00E5FF" stroke-width="2" />
+
+    <!-- Main Title -->
+    <text x="330" y="65" fill="#000000" font-family="'Impact', 'Arial Black', sans-serif" font-size="38" font-weight="900" font-style="italic" text-anchor="middle" letter-spacing="3">MY CONTRIBUTIONS</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="400" height="85" viewBox="0 0 400 85" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="sh_stack" x="-5%" y="-5%" width="115%" height="115%">
+      <feDropShadow dx="4" dy="4" stdDeviation="0" flood-color="#000000" flood-opacity="0.9" />
+    </filter>
+  </defs>
+
+  <!-- Angled badge -->
+  <g transform="rotate(-1.8 200 42)">
+    <polygon points="8,10 392,5 382,75 0,82" fill="#000000" filter="url(#sh_stack)" />
+    <polygon points="10,8 388,7 380,72 4,78" fill="#FFD500" stroke="#000000" stroke-width="4" />
+    
+    <!-- Mini dark accent -->
+    <polygon points="10,8 70,8 60,74 4,78" fill="#121214" />
+    <!-- Rainbow lines -->
+    <line x1="80" y1="18" x2="365" y2="18" stroke="#FF3D00" stroke-width="2.5" />
+    <line x1="80" y1="22" x2="365" y2="22" stroke="#00E5FF" stroke-width="2" />
+
+    <!-- Title -->
+    <text x="220" y="58" fill="#000000" font-family="'Impact', 'Arial Black', sans-serif" font-size="32" font-weight="900" font-style="italic" text-anchor="middle" letter-spacing="2">TECH ARSENAL</text>
+  </g>
+</svg>
