@@ -29,11 +29,11 @@
         title="Github Followers" 
         src="https://custom-icon-badges.herokuapp.com/github/followers/KenKalahOprec?color=000000&labelColor=FFD500&style=for-the-badge&logo=person-add&label=Followers&logoColor=000000" /> 
   </a>
-  <a href="https://youtu.be/0d9Oqm0Dt60?si=5PhH-6hvqDIWbLfb" target="_blank">
+  <a href="https://raw.githubusercontent.com/KenKalahOprec/KenKalahOprec/main/assets/audio/heaven.mp3" target="_blank">
     <img height="28" 
-        alt="Now Playing" 
-        title="Now Playing: Persona 4 - Heaven" 
-        src="https://img.shields.io/badge/▶_Now_Playing-Persona_4:_Heaven-FFD500?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=121214" />
+        alt="BGM: Heaven" 
+        title="Play BGM: Persona 4 - Heaven" 
+        src="https://img.shields.io/badge/▶_BGM-Persona_4:_Heaven-FFD500?style=for-the-badge&logoColor=000000&labelColor=121214" />
   </a>
 </div>
 
@@ -109,7 +109,7 @@ Beyond coding solo, I serve as **Infrastructure Staff at Technology Artisan (Tec
 
 <!-- Persona 4 Golden Jukebox -->
 <div align="center">
-  <a href="https://youtu.be/0d9Oqm0Dt60?si=5PhH-6hvqDIWbLfb" target="_blank">
+  <a href="https://raw.githubusercontent.com/KenKalahOprec/KenKalahOprec/main/assets/audio/heaven.mp3" target="_blank">
     <img src="./assets/images/jukebox_p4.svg" width="620" alt="Persona 4 Golden Jukebox - Heaven" />
   </a>
 </div>
