@@ -27,7 +27,13 @@
     <img height="28" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/KenKalahOprec?color=000000&labelColor=FFD500&style=for-the-badge&logo=person-add&label=Followers&logoColor=000000" />
+        src="https://custom-icon-badges.herokuapp.com/github/followers/KenKalahOprec?color=000000&labelColor=FFD500&style=for-the-badge&logo=person-add&label=Followers&logoColor=000000" /> 
+  </a>
+  <a href="https://youtu.be/0d9Oqm0Dt60?si=5PhH-6hvqDIWbLfb" target="_blank">
+    <img height="28" 
+        alt="Now Playing" 
+        title="Now Playing: Persona 4 - Heaven" 
+        src="https://img.shields.io/badge/▶_Now_Playing-Persona_4:_Heaven-FFD500?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=121214" />
   </a>
 </div>
 
@@ -98,6 +104,15 @@ Beyond coding solo, I serve as **Infrastructure Staff at Technology Artisan (Tec
 > **"Reach Out To The Truth"** — Code is never finished, it only gets **sharper**.
 >
 > Don your glasses, cut through the fog of bugs, and build with **relentless curiosity**, **discipline**, and **persistence**.
+
+<br/>
+
+<!-- Persona 4 Golden Jukebox -->
+<div align="center">
+  <a href="https://youtu.be/0d9Oqm0Dt60?si=5PhH-6hvqDIWbLfb" target="_blank">
+    <img src="./assets/images/jukebox_p4.svg" width="620" alt="Persona 4 Golden Jukebox - Heaven" />
+  </a>
+</div>
 
 <br/>
 
